@@ -18,9 +18,9 @@ global.APIKeys = {
 
 
 global.ownername = 'Nanaa Ofx'
-global.autorecording = false //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autorecording = true //status auto merekam ( auto record )
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 // Other
 global.owner = ['6281916775636','6281916775636','6281916775636']
 global.premium = ['6281916775636']
